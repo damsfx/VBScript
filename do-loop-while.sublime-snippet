@@ -7,6 +7,6 @@ Loop While ${1:statement}
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>do</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.vbs</scope>
+	<scope>source.vbs,source.asp</scope>
 	<description>Do Loop While</description>
 </snippet>
